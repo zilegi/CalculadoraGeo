@@ -6,7 +6,7 @@ public class Main {
         double media;
         int faltas ;
         boolean comportamento;
-        String opcao="";
+        String opcao="Bosch";
 
         while (!opcao.equalsIgnoreCase("sair")) {
             try {
